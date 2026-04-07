@@ -130,6 +130,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+Abhijith J- abhijithj2811@gmail.com
 
-Project Link: https://github.com/yourusername/ecommerce-chatbot
+Project Link: https://github.com/abhijithj12/E-commerce-Chatbot

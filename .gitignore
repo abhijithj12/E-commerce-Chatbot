@@ -1,0 +1,42 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment variables - IMPORTANT! Protects API keys
+.env
+
+# Database files - created automatically
+*.db
+*.sqlite
+*.sqlite3
+data/products.db
+
+# ChromaDB - vector store created at runtime
+chroma/
+chroma_db/
+.chroma/
+
+# Streamlit
+.streamlit/
+
+# UV package manager
+.python-version
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Log files
+*.log

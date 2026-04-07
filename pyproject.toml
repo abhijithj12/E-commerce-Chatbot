@@ -1,5 +1,5 @@
 [project]
-name = "Ecommer-chatbot"
+name = "ecommerce-chatbot"
 version = "0.1.0"
 description = "An intelligent e-commerce chatbot with product search and FAQ support"
 readme = "README.md"
